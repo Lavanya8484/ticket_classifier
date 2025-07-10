@@ -1,0 +1,49 @@
+ticket,module
+Cannot login to system,HCM
+Payment failed on invoice,Finance
+PO approval stuck,Procurement
+Unable to update profile,HCM
+ticket,module
+Cannot login to system,HCM
+Payment failed on invoice,Finance
+PO approval stuck,Procurement
+Unable to update profile,HCM
+Salary not credited,Finance
+Unable to create purchase order,Procurement
+Leave balance incorrect,HCM
+Invoice approval pending,Finance
+Employee profile not updating,HCM
+Requesting vendor addition,Procurement
+Payslip not generated,HCM
+Budget mismatch in report,Finance
+PO not getting approved,Procurement
+Error in benefits enrollment,HCM
+Bank details update failed,Finance
+Need to add new supplier,Procurement
+Unable to access payroll,HCM
+Duplicate invoice error,Finance
+Vendor not visible in list,Procurement
+Need help with training portal,Other
+System running slow,Other
+Login timeout error,Other
+Laptop request issue,Other
+Access denied to finance report,Finance
+Update dependent details failed,HCM
+Unable to close PO,Procurement
+ticket,module
+Invoice payment failed,Finance
+Unable to access financial report,Finance
+Reimbursement not processed,Finance
+Budget report missing,Finance
+Tax details incorrect,Finance
+Salary not credited,Finance
+Bank account mismatch in payroll,Finance
+Transaction declined by bank,Finance
+Refund not issued,Finance
+Ledger not updating,Finance
+Financial year not closing,Finance
+Need payment status update,Finance
+Expense report submission failed,Finance
+Missing receipt attachment error,Finance
+Payment gateway timeout,Finance
+
